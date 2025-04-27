@@ -1,3 +1,4 @@
 task
 *.o
 build/
+task2
